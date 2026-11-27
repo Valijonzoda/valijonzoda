@@ -95,6 +95,16 @@ I'm a **Python Backend Engineer** with **4+ years of experience** building backe
 
 </div>
 
+### 🟩 Contribution Activity
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/39d353/Valijonzoda" alt="Contribution calendar" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Valijonzoda&bg_color=0d1117&color=3fb6d9&line=39d353&point=ffffff&area=true&hide_border=true" alt="Activity graph" width="100%" />
+
+</div>
+
 ---
 
 <!--
