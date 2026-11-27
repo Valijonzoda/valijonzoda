@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&color=2C5364&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Valijonzoda&color=2C5364&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firdavs-valijonzoda-650489208)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:valijonzodafirdavs@gmail.com)
 
@@ -88,10 +88,10 @@ I'm a **Python Backend Engineer** with **4+ years of experience** building backe
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Valijonzoda&theme=tokyonight" />
 
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Valijonzoda&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Valijonzoda&theme=tokyonight" width="49%" />
 
 </div>
 
@@ -102,8 +102,8 @@ I'm a **Python Backend Engineer** with **4+ years of experience** building backe
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO_NAME_1&theme=tokyonight&hide_border=true)](https://github.com/USERNAME/REPO_NAME_1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO_NAME_2&theme=tokyonight&hide_border=true)](https://github.com/USERNAME/REPO_NAME_2)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Valijonzoda&repo=REPO_NAME_1&theme=tokyonight&hide_border=true)](https://github.com/Valijonzoda/REPO_NAME_1)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Valijonzoda&repo=REPO_NAME_2&theme=tokyonight&hide_border=true)](https://github.com/Valijonzoda/REPO_NAME_2)
 
 </div>
 -->
